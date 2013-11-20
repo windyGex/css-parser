@@ -7,11 +7,12 @@
     "parser",
     "styleSheet"
   ],
-  "version": "0.0.1",
-   "directories": {
+  "version": "0.0.4",
+  "directories": {
     "lib": "./lib"
   },
-  "main": "./lib/index.js"
+  "main": "./lib/index.js",
+  "readme": "ERROR: No README data found!",
+  "_id": "css-parser@0.0.1",
+  "_from": "css-parser@*"
 }
- 
-  

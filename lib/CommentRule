@@ -1,0 +1,20 @@
+
+
+
+var CommentRule = function() {
+
+};
+
+CommentRule.prototype.constructor = CommentRule;
+
+Object.defineProperty(CommentRule.prototype, "cssText", {
+    get: function() {
+
+        return this.commentText;
+    }
+});
+
+
+//.CommonJS
+module.exports = CommentRule;
+///CommonJS
